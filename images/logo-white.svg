@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 117.008 135.119">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="Asset_1" data-name="Asset 1" transform="translate(0)">
+    <g id="Layer_1" data-name="Layer 1">
+      <path id="Path_27" data-name="Path 27" class="cls-1" d="M0,192.76l38.218,22.064v39.95L0,232.71Z" transform="translate(0 -131.369)"/>
+      <path id="Path_28" data-name="Path 28" class="cls-1" d="M175.354,293.993v22.549l-15.071,8.7-10.943-6.316V278.97Z" transform="translate(-101.778 -190.123)"/>
+      <path id="Path_29" data-name="Path 29" class="cls-1" d="M117.007,106.362V126.4l-15.86,9.163L93.1,140.21l-10.271,5.933V124.99l-9.252-5.341L47.562,104.626l-9.344-5.392L0,77.17V58.844L17.354,48.828l8.058-4.656L38.218,36.78V60.873l9.344,5.392L73.576,81.288l9.252,5.341Z" transform="translate(0 -25.066)"/>
+      <path id="Path_30" data-name="Path 30" class="cls-1" d="M218.785,33.778V71.987L149.34,31.893V6.316L160.28,0Z" transform="translate(-101.778)"/>
+    </g>
+  </g>
+</svg>
